@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		26924EA121E2289B00513B7B /* enterScore.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9421E2289900513B7B /* enterScore.png */; };
+		26924EA321E2289B00513B7B /* dailycheck.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9621E2289A00513B7B /* dailycheck.png */; };
+		26924EA421E2289B00513B7B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9721E2289A00513B7B /* logo.png */; };
+		26924EA521E2289B00513B7B /* goal.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9821E2289A00513B7B /* goal.png */; };
+		26924EA621E2289B00513B7B /* bbb.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9921E2289A00513B7B /* bbb.png */; };
+		26924EA721E2289B00513B7B /* aaa.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9A21E2289A00513B7B /* aaa.png */; };
+		26924EA821E2289B00513B7B /* return.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9B21E2289A00513B7B /* return.png */; };
+		26924EA921E2289B00513B7B /* check_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9C21E2289A00513B7B /* check_off.png */; };
+		26924EAA21E2289B00513B7B /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9D21E2289A00513B7B /* add.png */; };
+		26924EAB21E2289B00513B7B /* check_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9E21E2289B00513B7B /* check_on.png */; };
+		26924EAC21E2289B00513B7B /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924E9F21E2289B00513B7B /* setting.png */; };
+		26924EAD21E2289B00513B7B /* enterbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = 26924EA021E2289B00513B7B /* enterbutton.png */; };
+		26B8B43621D46D0500E7F512 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B8B43421D46D0500E7F512 /* ListTableViewCell.swift */; };
+		26B8B43721D46D0500E7F512 /* ListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 26B8B43521D46D0500E7F512 /* ListTableViewCell.xib */; };
+		26BD52C921D4AB0800268CA6 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BD52C821D4AB0800268CA6 /* SettingViewController.swift */; };
+		26BF0A2B21D7666C0023A925 /* AddProjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A2A21D7666C0023A925 /* AddProjectViewController.swift */; };
+		26BF0A2D21D766B00023A925 /* EnterScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A2C21D766B00023A925 /* EnterScoreViewController.swift */; };
+		26BF0A3421D79D580023A925 /* ProjectTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A3221D79D580023A925 /* ProjectTableViewCell.swift */; };
+		26BF0A3521D79D580023A925 /* ProjectTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 26BF0A3321D79D580023A925 /* ProjectTableViewCell.xib */; };
+		26BF0A3721D7A2FD0023A925 /* ProjectTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A3621D7A2FD0023A925 /* ProjectTableViewController.swift */; };
+		26BF0A3C21D7A54E0023A925 /* ProjectScoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A3A21D7A54E0023A925 /* ProjectScoreTableViewCell.swift */; };
+		26BF0A3D21D7A54E0023A925 /* ProjectScoreTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 26BF0A3B21D7A54E0023A925 /* ProjectScoreTableViewCell.xib */; };
+		26BF0A5321D8ED290023A925 /* EnterScore2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A5221D8ED290023A925 /* EnterScore2ViewController.swift */; };
+		26BF0A5521D8EFFB0023A925 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26BF0A5421D8EFFB0023A925 /* PageViewController.swift */; };
 		26F255E121D218AB006F82A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F255E021D218AB006F82A3 /* AppDelegate.swift */; };
 		26F255E321D218AB006F82A3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F255E221D218AB006F82A3 /* ViewController.swift */; };
 		26F255E621D218AB006F82A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26F255E421D218AB006F82A3 /* Main.storyboard */; };
@@ -14,6 +38,7 @@
 		26F255EB21D218AF006F82A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26F255E921D218AF006F82A3 /* LaunchScreen.storyboard */; };
 		26F255F621D218AF006F82A3 /* trainingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F255F521D218AF006F82A3 /* trainingTests.swift */; };
 		26F2560121D218AF006F82A3 /* trainingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F2560021D218AF006F82A3 /* trainingUITests.swift */; };
+		26F2561121D31F10006F82A3 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F2561021D31F10006F82A3 /* ListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +59,30 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		26924E9421E2289900513B7B /* enterScore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enterScore.png; sourceTree = SOURCE_ROOT; };
+		26924E9621E2289A00513B7B /* dailycheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dailycheck.png; sourceTree = SOURCE_ROOT; };
+		26924E9721E2289A00513B7B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = SOURCE_ROOT; };
+		26924E9821E2289A00513B7B /* goal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goal.png; sourceTree = SOURCE_ROOT; };
+		26924E9921E2289A00513B7B /* bbb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bbb.png; sourceTree = SOURCE_ROOT; };
+		26924E9A21E2289A00513B7B /* aaa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aaa.png; sourceTree = SOURCE_ROOT; };
+		26924E9B21E2289A00513B7B /* return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = return.png; sourceTree = SOURCE_ROOT; };
+		26924E9C21E2289A00513B7B /* check_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check_off.png; sourceTree = SOURCE_ROOT; };
+		26924E9D21E2289A00513B7B /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = SOURCE_ROOT; };
+		26924E9E21E2289B00513B7B /* check_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check_on.png; sourceTree = SOURCE_ROOT; };
+		26924E9F21E2289B00513B7B /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = SOURCE_ROOT; };
+		26924EA021E2289B00513B7B /* enterbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enterbutton.png; sourceTree = SOURCE_ROOT; };
+		26B8B43421D46D0500E7F512 /* ListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
+		26B8B43521D46D0500E7F512 /* ListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ListTableViewCell.xib; sourceTree = "<group>"; };
+		26BD52C821D4AB0800268CA6 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		26BF0A2A21D7666C0023A925 /* AddProjectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddProjectViewController.swift; sourceTree = "<group>"; };
+		26BF0A2C21D766B00023A925 /* EnterScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterScoreViewController.swift; sourceTree = "<group>"; };
+		26BF0A3221D79D580023A925 /* ProjectTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTableViewCell.swift; sourceTree = "<group>"; };
+		26BF0A3321D79D580023A925 /* ProjectTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProjectTableViewCell.xib; sourceTree = "<group>"; };
+		26BF0A3621D7A2FD0023A925 /* ProjectTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTableViewController.swift; sourceTree = "<group>"; };
+		26BF0A3A21D7A54E0023A925 /* ProjectScoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectScoreTableViewCell.swift; sourceTree = "<group>"; };
+		26BF0A3B21D7A54E0023A925 /* ProjectScoreTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProjectScoreTableViewCell.xib; sourceTree = "<group>"; };
+		26BF0A5221D8ED290023A925 /* EnterScore2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterScore2ViewController.swift; sourceTree = "<group>"; };
+		26BF0A5421D8EFFB0023A925 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		26F255DD21D218AB006F82A3 /* training.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = training.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26F255E021D218AB006F82A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		26F255E221D218AB006F82A3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +96,7 @@
 		26F255FC21D218AF006F82A3 /* trainingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trainingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26F2560021D218AF006F82A3 /* trainingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainingUITests.swift; sourceTree = "<group>"; };
 		26F2560221D218AF006F82A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26F2561021D31F10006F82A3 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +147,37 @@
 		26F255DF21D218AB006F82A3 /* training */ = {
 			isa = PBXGroup;
 			children = (
+				26924E9A21E2289A00513B7B /* aaa.png */,
+				26924E9D21E2289A00513B7B /* add.png */,
+				26924E9921E2289A00513B7B /* bbb.png */,
+				26924E9C21E2289A00513B7B /* check_off.png */,
+				26924E9E21E2289B00513B7B /* check_on.png */,
+				26924E9621E2289A00513B7B /* dailycheck.png */,
+				26924EA021E2289B00513B7B /* enterbutton.png */,
+				26924E9421E2289900513B7B /* enterScore.png */,
+				26924E9821E2289A00513B7B /* goal.png */,
+				26924E9721E2289A00513B7B /* logo.png */,
+				26924E9B21E2289A00513B7B /* return.png */,
+				26924E9F21E2289B00513B7B /* setting.png */,
 				26F255E021D218AB006F82A3 /* AppDelegate.swift */,
 				26F255E221D218AB006F82A3 /* ViewController.swift */,
 				26F255E421D218AB006F82A3 /* Main.storyboard */,
 				26F255E721D218AF006F82A3 /* Assets.xcassets */,
 				26F255E921D218AF006F82A3 /* LaunchScreen.storyboard */,
 				26F255EC21D218AF006F82A3 /* Info.plist */,
+				26F2561021D31F10006F82A3 /* ListTableViewController.swift */,
+				26B8B43421D46D0500E7F512 /* ListTableViewCell.swift */,
+				26B8B43521D46D0500E7F512 /* ListTableViewCell.xib */,
+				26BD52C821D4AB0800268CA6 /* SettingViewController.swift */,
+				26BF0A2C21D766B00023A925 /* EnterScoreViewController.swift */,
+				26BF0A5221D8ED290023A925 /* EnterScore2ViewController.swift */,
+				26BF0A2A21D7666C0023A925 /* AddProjectViewController.swift */,
+				26BF0A3A21D7A54E0023A925 /* ProjectScoreTableViewCell.swift */,
+				26BF0A3B21D7A54E0023A925 /* ProjectScoreTableViewCell.xib */,
+				26BF0A3621D7A2FD0023A925 /* ProjectTableViewController.swift */,
+				26BF0A3221D79D580023A925 /* ProjectTableViewCell.swift */,
+				26BF0A3321D79D580023A925 /* ProjectTableViewCell.xib */,
+				26BF0A5421D8EFFB0023A925 /* PageViewController.swift */,
 			);
 			path = training;
 			sourceTree = "<group>";
@@ -229,9 +304,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26924EAD21E2289B00513B7B /* enterbutton.png in Resources */,
+				26924EA621E2289B00513B7B /* bbb.png in Resources */,
+				26BF0A3521D79D580023A925 /* ProjectTableViewCell.xib in Resources */,
+				26924EA121E2289B00513B7B /* enterScore.png in Resources */,
+				26924EAA21E2289B00513B7B /* add.png in Resources */,
+				26924EA921E2289B00513B7B /* check_off.png in Resources */,
+				26924EA321E2289B00513B7B /* dailycheck.png in Resources */,
 				26F255EB21D218AF006F82A3 /* LaunchScreen.storyboard in Resources */,
+				26924EA521E2289B00513B7B /* goal.png in Resources */,
 				26F255E821D218AF006F82A3 /* Assets.xcassets in Resources */,
+				26924EA721E2289B00513B7B /* aaa.png in Resources */,
+				26BF0A3D21D7A54E0023A925 /* ProjectScoreTableViewCell.xib in Resources */,
+				26924EA421E2289B00513B7B /* logo.png in Resources */,
 				26F255E621D218AB006F82A3 /* Main.storyboard in Resources */,
+				26924EAB21E2289B00513B7B /* check_on.png in Resources */,
+				26924EAC21E2289B00513B7B /* setting.png in Resources */,
+				26924EA821E2289B00513B7B /* return.png in Resources */,
+				26B8B43721D46D0500E7F512 /* ListTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +346,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26BF0A3721D7A2FD0023A925 /* ProjectTableViewController.swift in Sources */,
+				26BF0A2B21D7666C0023A925 /* AddProjectViewController.swift in Sources */,
+				26BF0A3C21D7A54E0023A925 /* ProjectScoreTableViewCell.swift in Sources */,
+				26BF0A5521D8EFFB0023A925 /* PageViewController.swift in Sources */,
+				26BF0A3421D79D580023A925 /* ProjectTableViewCell.swift in Sources */,
+				26F2561121D31F10006F82A3 /* ListTableViewController.swift in Sources */,
+				26BF0A5321D8ED290023A925 /* EnterScore2ViewController.swift in Sources */,
+				26BF0A2D21D766B00023A925 /* EnterScoreViewController.swift in Sources */,
 				26F255E321D218AB006F82A3 /* ViewController.swift in Sources */,
 				26F255E121D218AB006F82A3 /* AppDelegate.swift in Sources */,
+				26B8B43621D46D0500E7F512 /* ListTableViewCell.swift in Sources */,
+				26BD52C921D4AB0800268CA6 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
